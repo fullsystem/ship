@@ -1,0 +1,18 @@
+{
+  "name": "fullsystem/ship",
+  "authors": [
+    {
+      "name": "rdehnhardt",
+      "email": "renatotkd@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Fullsystem\\Ship\\": "src/"
+    }
+  },
+  "require": {
+    "laravel/framework": "^6.0",
+    "fullsystem/ui": "dev-master"
+  }
+}
